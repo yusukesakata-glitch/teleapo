@@ -1241,8 +1241,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～0:00",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001065/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/104565/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "shop-cae1d",
@@ -1301,8 +1301,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010676/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/117332/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "shop-0bc20",
@@ -1331,8 +1331,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/011292/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/120295/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "new-club-happiness-5b82d",
@@ -1406,8 +1406,8 @@ window.TELEAPO_DATA = [
   "hours": "11:00～LAST",
   "openFrom": "11:00",
   "sourceUrl": "https://con-ca.jp/kanagawa/a_321/shop/003132/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/119692/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "shop-bc541",
@@ -1421,8 +1421,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014815/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/124126/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "melty-garden-ab718",
@@ -1466,8 +1466,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015450/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/124664/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "a2o-4d495",
@@ -1481,8 +1481,8 @@ window.TELEAPO_DATA = [
   "hours": "6:00～LAST",
   "openFrom": "6:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/012585/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/122273/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "huntr-x-d6595",
@@ -1496,8 +1496,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013435/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/122985/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "moana-98267",
