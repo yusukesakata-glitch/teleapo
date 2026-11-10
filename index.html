@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>テレアポリスト</title>
+<style>
+  :root{
+    --navy:#163B5B; --navy2:#25475F; --gold:#D9A94A;
+    --bg:#F2F5F8; --card:#FFFFFF; --ink:#22303C; --sub:#6B7B89;
+    --line:#E1E8EE; --chip:#EAF0F5;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;background:var(--bg);color:var(--ink)}
+  header{background:var(--navy);color:#fff;padding:14px 16px 12px;position:sticky;top:0;z-index:20}
+  header .row{display:flex;align-items:baseline;justify-content:space-between}
+  h1{font-size:19px;font-weight:700;letter-spacing:.02em}
+  #count{font-size:13px;color:#C9D6E2}
+  #count b{color:var(--gold);font-size:16px}
+  .controls{background:var(--navy);padding:0 12px 12px;position:sticky;top:57px;z-index:19}
+  .search{display:flex;gap:8px}
+  #q{flex:1;border:none;border-radius:999px;padding:10px 16px;font-size:15px;background:#fff;color:var(--ink);outline:none}
+  #sort{border:none;border-radius:999px;padding:10px 8px;font-size:13px;background:var(--navy2);color:#fff;outline:none}
+  .pills{display:flex;gap:6px;overflow-x:auto;padding:10px 2px 0;scrollbar-width:none}
+  .pills::-webkit-scrollbar{display:none}
+  .pill{flex:0 0 auto;border:1px solid #3D5A74;background:transparent;color:#C9D6E2;border-radius:999px;padding:6px 13px;font-size:13px;cursor:pointer}
+  .pill.on{background:var(--gold);border-color:var(--gold);color:#fff;font-weight:700}
+  .pill.g{border-color:#CBD8E2;color:var(--sub);background:#fff}
+  .pill.g.on{background:var(--navy);border-color:var(--navy);color:#fff}
+  #genreRow{padding-top:8px}
+  main{padding:12px 12px 40px;max-width:760px;margin:0 auto}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin-bottom:10px}
+  .name{font-size:17px;font-weight:700;color:var(--navy);line-height:1.35}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .tag{font-size:12px;background:var(--chip);color:var(--navy2);border-radius:999px;padding:3px 10px}
+  .hours{margin-top:10px;font-size:14px;display:flex;align-items:center;gap:8px}
+  .open{background:var(--gold);color:#fff;font-weight:700;border-radius:999px;padding:3px 12px;font-size:14px}
+  .hours .full{color:var(--ink)}
+  .unknown{color:#A7B4BF;font-size:13px}
+  .addr{margin-top:8px;font-size:13px;color:var(--sub);line-height:1.5}
+  .telbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:12px;background:var(--navy);color:#fff;text-decoration:none;border-radius:999px;padding:12px;font-size:17px;font-weight:700;letter-spacing:.03em}
+  .telbtn .kind{font-size:11px;font-weight:700;background:rgba(255,255,255,.22);border-radius:999px;padding:2px 8px}
+  .telbtn.mobile{background:#fff;color:var(--navy);border:2px solid var(--gold)}
+  .telbtn.mobile .kind{background:var(--gold);color:#fff}
+  .telbtn.none{background:var(--chip);color:#A7B4BF;pointer-events:none;font-size:14px;font-weight:400}
+  #empty{ text-align:center;color:var(--sub);padding:40px 0;font-size:14px;display:none}
+</style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <h1>テレアポリスト</h1>
+    <div id="count"></div>
+  </div>
+</header>
+<div class="controls">
+  <div class="search">
+    <input id="q" type="search" autocomplete="off">
+    <select id="sort">
+      <option value="open">開始が早い順</option>
+      <option value="name">店名順</option>
+      <option value="area">エリア順</option>
+    </select>
+  </div>
+  <div class="pills" id="areaRow">
+    <button class="pill on" data-area="">すべて</button>
+    <button class="pill" data-area="川崎">川崎</button>
+    <button class="pill" data-area="横浜・関内">横浜・関内</button>
+    <button class="pill" data-area="横浜">横浜</button>
+  </div>
+  <div class="pills" id="genreRow"></div>
+</div>
+<main>
+  <div id="list"></div>
+  <div id="empty">該当する店舗がありません</div>
+</main>
+<script src="data.js"></script>
+<script>
+const DATA = window.TELEAPO_DATA || [];
+let area = '', genre = '';
+
+const genreRow = document.getElementById('genreRow');
+const genres = [...new Set(DATA.map(d => d.genre).filter(Boolean))];
+genreRow.innerHTML = '<button class="pill g on" data-genre="">全業態</button>' +
+  genres.map(g => `<button class="pill g" data-genre="${g}">${g}</button>`).join('');
+
+function openMinutes(s){
+  if(!s) return 9999;
+  const m = s.match(/(\d{1,2}):(\d{2})/);
+  if(!m) return 9999;
+  return parseInt(m[1]) * 60 + parseInt(m[2]);
+}
+function esc(s){ return (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function render(){
+  const q = document.getElementById('q').value.trim();
+  const sort = document.getElementById('sort').value;
+  let rows = DATA.filter(d =>
+    (!area || d.area === area) &&
+    (!genre || d.genre === genre) &&
+    (!q || (d.name + d.address + d.station + d.genre).includes(q))
+  );
+  if(sort === 'open') rows.sort((a,b) => openMinutes(a.openFrom) - openMinutes(b.openFrom) || a.name.localeCompare(b.name,'ja'));
+  if(sort === 'name') rows.sort((a,b) => a.name.localeCompare(b.name,'ja'));
+  if(sort === 'area') rows.sort((a,b) => a.area.localeCompare(b.area,'ja') || openMinutes(a.openFrom) - openMinutes(b.openFrom));
+  document.getElementById('count').innerHTML = `<b>${rows.length}</b> 件 / 全${DATA.length}件`;
+  document.getElementById('empty').style.display = rows.length ? 'none' : 'block';
+  document.getElementById('list').innerHTML = rows.map(d => `
+    <div class="card">
+      <div class="name">${esc(d.name)}</div>
+      <div class="meta">
+        ${d.genre ? `<span class="tag">${esc(d.genre)}</span>` : ''}
+        ${d.station ? `<span class="tag">${esc(d.station)}</span>` : ''}
+        <span class="tag">${esc(d.area)}</span>
+      </div>
+      <div class="hours">${d.openFrom
+        ? `<span class="open">${esc(d.openFrom)}〜</span><span class="full">${esc(d.hours)}</span>`
+        : `<span class="unknown">営業時間 未確認</span>`}</div>
+      <div class="addr">${esc(d.address)}</div>
+      ${d.tel
+        ? `<a class="telbtn ${d.telType === '携帯' ? 'mobile' : ''}" href="tel:${d.tel.replace(/[^0-9+]/g,'')}">📞 ${esc(d.tel)}<span class="kind">${d.telType === '携帯' ? '携帯' : '店電'}</span></a>`
+        : `<span class="telbtn none">電話番号 未確認</span>`}
+    </div>`).join('');
+}
+
+document.getElementById('q').addEventListener('input', render);
+document.getElementById('sort').addEventListener('change', render);
+document.getElementById('areaRow').addEventListener('click', e => {
+  const b = e.target.closest('[data-area]'); if(!b) return;
+  area = b.dataset.area;
+  document.querySelectorAll('#areaRow .pill').forEach(p => p.classList.toggle('on', p === b));
+  render();
+});
+genreRow.addEventListener('click', e => {
+  const b = e.target.closest('[data-genre]'); if(!b) return;
+  genre = b.dataset.genre;
+  genreRow.querySelectorAll('.pill').forEach(p => p.classList.toggle('on', p === b));
+  render();
+});
+render();
+</script>
+</body>
+</html>
