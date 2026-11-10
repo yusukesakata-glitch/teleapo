@@ -1076,8 +1076,8 @@ window.TELEAPO_DATA = [
   "hours": "21:00～LAST",
   "openFrom": "21:00",
   "sourceUrl": "https://town-night.jp/kanagawa/city_252/biz_2/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_322/shop/112017/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "shop-5308e",
@@ -1136,8 +1136,8 @@ window.TELEAPO_DATA = [
   "hours": "OPEN～LAST",
   "openFrom": "",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/009232/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/116302/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "cloud-194ac",
@@ -1151,8 +1151,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016561/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/125702/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "next-monster-5d6ea",
@@ -1166,8 +1166,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016212/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/125389/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "eldorado-1f475",
@@ -1181,8 +1181,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000387/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m21/a10300/shop3060/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "shop-8223b",
@@ -1196,8 +1196,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10300/shop23013/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m21/a10300/shop23013/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "paris-collection-214a1",
@@ -1211,8 +1211,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://www.kanagawa-pariscollection.com/top/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/105494/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "girl-s-bar-pino-76b87",
@@ -1226,8 +1226,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://luline.jp/shop/view/23238/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.tainew.com/shop/view/v1002087/",
+  "jobSource": "体入ドットコム"
  },
  {
   "id": "shop-4c6ae",
@@ -1271,8 +1271,8 @@ window.TELEAPO_DATA = [
   "hours": "11:00～LAST",
   "openFrom": "11:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013736/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/123201/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "qwer-2074e",
@@ -1286,8 +1286,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016533/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/125673/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "i-ll-it-898a4",
@@ -1346,8 +1346,8 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000128/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.tainew.com/shop/view/v316443/",
+  "jobSource": "体入ドットコム"
  },
  {
   "id": "regro-df8f0",
@@ -1361,8 +1361,8 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000127/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.tainew.com/shop/view/v316944/",
+  "jobSource": "体入ドットコム"
  },
  {
   "id": "e-style-722b6",
@@ -1376,8 +1376,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000130/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/01083/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "bar-rino-29b0a",
@@ -1391,8 +1391,8 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://luline.jp/shop/view/18498/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.tainew.com/shop/view/v318498/",
+  "jobSource": "体入ドットコム"
  },
  {
   "id": "izna-9ac91",
@@ -1436,8 +1436,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015591/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/124752/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "reims-ac4a3",
@@ -1451,8 +1451,8 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001273/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_321/shop/103597/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "shop-89832",
@@ -2546,8 +2546,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016190/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/125370/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "style-a279f",
@@ -2591,8 +2591,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006985/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/101656/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "eternity-9cc04",
@@ -2636,8 +2636,8 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005127/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/107631/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "r-d-1cd91",
@@ -2666,8 +2666,8 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000137/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/108205/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "grace-91982",
@@ -2756,8 +2756,8 @@ window.TELEAPO_DATA = [
   "hours": "8:00～LAST",
   "openFrom": "8:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008866/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/116307/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "club-link-ac3c2",
@@ -2816,8 +2816,8 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/biz_1/stype_1/page4/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m21/a10303/shop10050/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "club-neo-4f011",
@@ -2846,8 +2846,8 @@ window.TELEAPO_DATA = [
   "hours": "18:00～LAST",
   "openFrom": "18:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/012573/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_330/shop/122263/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "new-club-mint-c40b3",
@@ -2891,8 +2891,8 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000721/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_319/shop/102808/",
+  "jobSource": "体入ショコラ"
  },
  {
   "id": "alice-b6d68",
@@ -2966,7 +2966,7 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011979/",
-  "jobUrl": "",
-  "jobSource": ""
+  "jobUrl": "https://chocolat.work/kanagawa/a_330/shop/121636/",
+  "jobSource": "体入ショコラ"
  }
 ];
