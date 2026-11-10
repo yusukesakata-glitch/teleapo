@@ -74,8 +74,8 @@
   <div id="list"></div>
   <div id="empty">該当する店舗がありません</div>
 </main>
-<script src="data.js"></script>
 <script>
+function init(){
 const DATA = window.TELEAPO_DATA || [];
 let area = '', genre = '';
 
@@ -138,6 +138,11 @@ genreRow.addEventListener('click', e => {
   render();
 });
 render();
+}
+fetch('data.js', { cache: 'no-store' })
+  .then(r => r.text())
+  .then(t => { (0, eval)(t); init(); })
+  .catch(() => { document.getElementById('count').textContent = 'データを読み込めませんでした'; });
 </script>
 </body>
 </html>
