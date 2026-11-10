@@ -234,19 +234,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011934/"
  },
  {
-  "id": "heart-f7238",
-  "name": "コンカフェHEART",
-  "genre": "コンカフェ",
-  "address": "神奈川県川崎市川崎区東田町2-8 第2RTビル4F",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "044-201-1207",
-  "telType": "店電",
-  "hours": "18:00～LAST",
-  "openFrom": "18:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/014103/"
- },
- {
   "id": "lounge-club-new-all-d111c",
   "name": "LOUNGE CLUB NEW ALL",
   "genre": "ラウンジ",
@@ -284,19 +271,6 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000296/"
- },
- {
-  "id": "club-k-0fcd1",
-  "name": "CLUB K",
-  "genre": "キャバクラ（姉キャバ）",
-  "address": "神奈川県川崎市川崎区東田町3-24 コスモビル2F",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "044-272-6022",
-  "telType": "店電",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop12827/system/"
  },
  {
   "id": "girls-darts-bar-espoir-2ea74",
@@ -388,19 +362,6 @@ window.TELEAPO_DATA = [
   "hours": "平日 19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009262/"
- },
- {
-  "id": "pub-b0705",
-  "name": "PUB ほ乃か",
-  "genre": "パブ／スナック",
-  "address": "神奈川県川崎市川崎区東田町4-11 アップルビル 4F",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "090-1532-3403",
-  "telType": "携帯",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop17265/"
  },
  {
   "id": "kirari-96a7e",
@@ -624,19 +585,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000146/"
  },
  {
-  "id": "girls-bar-molly-82ae5",
-  "name": "Girls Bar molly",
-  "genre": "ガールズバー",
-  "address": "神奈川県川崎市川崎区砂子2-5-21 第39東京ビルB1",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "070-4551-5055",
-  "telType": "携帯",
-  "hours": "19:00～LAST",
-  "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop24267/"
- },
- {
   "id": "clubroi-40b79",
   "name": "ClubRoi",
   "genre": "キャバクラ",
@@ -832,19 +780,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/016982/"
  },
  {
-  "id": "girls-bar-darts-vivi-lounge-020de",
-  "name": "Girls Bar & Darts ViVi Lounge",
-  "genre": "ガールズバー",
-  "address": "神奈川県川崎市川崎区砂子2-6-4",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "044-280-9496",
-  "telType": "店電",
-  "hours": "20:00~8:00",
-  "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop13774/"
- },
- {
   "id": "cafebar-mimyu-5d5ba",
   "name": "CafeBar mimyu",
   "genre": "コンカフェ",
@@ -934,19 +869,6 @@ window.TELEAPO_DATA = [
   "hours": "20:00～LAST",
   "openFrom": "20:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000297/reviews/"
- },
- {
-  "id": "girls-bar-buzz-93f37",
-  "name": "GIRLS BAR BUZZ",
-  "genre": "ガールズバー",
-  "address": "神奈川県川崎市川崎区砂子2-8-10 ジャパンビル2D",
-  "station": "川崎駅",
-  "area": "川崎",
-  "tel": "044-201-9662",
-  "telType": "店電",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop13719/"
  },
  {
   "id": "pub-f2ea7",
@@ -1092,32 +1014,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016212/"
  },
  {
-  "id": "granville-45d8c",
-  "name": "GRANVILLE～グランビル～",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市西区南幸1-2-9 プリンス会館5F",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "045-322-6789",
-  "telType": "店電",
-  "hours": "18:00～LAST",
-  "openFrom": "18:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000133/"
- },
- {
-  "id": "seaside-3f151",
-  "name": "横浜SEASIDE～シーサイド～",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市西区南幸1-2-9 プリンス会館8階",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "045-322-8011",
-  "telType": "店電",
-  "hours": "19:00～LAST",
-  "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000134/"
- },
- {
   "id": "eldorado-1f475",
   "name": "横浜Eldorado（エルドラド）",
   "genre": "キャバクラ",
@@ -1144,19 +1040,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10300/shop23013/"
  },
  {
-  "id": "regent-club-205fb",
-  "name": "REGENT CLUB横浜（リージェントクラブ）",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市西区南幸1-2-9 横浜プリンス会館4F",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "045-323-5421",
-  "telType": "店電",
-  "hours": "昼の部13:00~19:00 夜の部19:00~LAST",
-  "openFrom": "13:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10300/shop8422/"
- },
- {
   "id": "paris-collection-214a1",
   "name": "Paris Collection（パリコレクション）",
   "genre": "キャバクラ",
@@ -1168,19 +1051,6 @@ window.TELEAPO_DATA = [
   "hours": "19:00～LAST",
   "openFrom": "19:00",
   "sourceUrl": "https://www.kanagawa-pariscollection.com/top/"
- },
- {
-  "id": "the-eight-morning-oasis-ef6a9",
-  "name": "THE EIGHT Morning×OASIS～エイトモーニング×オアシス～",
-  "genre": "昼キャバ・朝キャバ",
-  "address": "神奈川県横浜市西区南幸1-2-9 横浜プリンス会館5F",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "045-290-5535",
-  "telType": "店電",
-  "hours": "OPEN～12:00",
-  "openFrom": "",
-  "sourceUrl": "https://job-chocolat.jp/kanagawa/a_321/shop/00711/"
  },
  {
   "id": "girl-s-bar-pino-76b87",
@@ -1677,19 +1547,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007546/"
  },
  {
-  "id": "club-liberte-08b77",
-  "name": "Club Liberte（クラブリベルテ）",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市中区住吉町3-36-2 関内DEX1992ビル5F",
-  "station": "関内駅",
-  "area": "横浜・関内",
-  "tel": "",
-  "telType": "",
-  "hours": "6:00～17:00",
-  "openFrom": "6:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006708/"
- },
- {
   "id": "premium-lounge-luxe-8e5fc",
   "name": "Premium Lounge LUXE（ラグゼ）",
   "genre": "キャバクラ",
@@ -1740,19 +1597,6 @@ window.TELEAPO_DATA = [
   "hours": "12:00～LAST",
   "openFrom": "12:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005113/"
- },
- {
-  "id": "pinkpanther-a6433",
-  "name": "PINKPANTHER（ピンクパンサー）",
-  "genre": "ガールズバー",
-  "address": "神奈川県横浜市中区太田町2-32 ビラアベックス横浜関内5階H号室",
-  "station": "関内駅／馬車道駅",
-  "area": "横浜・関内",
-  "tel": "045-232-4484",
-  "telType": "店電",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001725/"
  },
  {
   "id": "girls-lounge-tiger-a72c6",
@@ -1883,19 +1727,6 @@ window.TELEAPO_DATA = [
   "hours": "19:00～1:00",
   "openFrom": "19:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/009422/"
- },
- {
-  "id": "club-gia-83e08",
-  "name": "CLUB GIA（クラブ ジア）",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市中区尾上町5-70 ザ・バルレ源平ビルB1F",
-  "station": "関内駅",
-  "area": "横浜・関内",
-  "tel": "045-662-7739",
-  "telType": "店電",
-  "hours": "19:00～24:00",
-  "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000724/"
  },
  {
   "id": "lounge-haru-31e9c",
@@ -2054,32 +1885,6 @@ window.TELEAPO_DATA = [
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014318/"
  },
  {
-  "id": "club-lee-7a74e",
-  "name": "Club Lee（クラブリー）",
-  "genre": "クラブ",
-  "address": "神奈川県横浜市中区弁天通3-36 関内プリンス会館ビル3F",
-  "station": "関内駅",
-  "area": "横浜・関内",
-  "tel": "045-201-9423",
-  "telType": "店電",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005996/"
- },
- {
-  "id": "regent-club-kannai-e736f",
-  "name": "Regent Club Kannai（リージェントクラブ関内）",
-  "genre": "昼キャバ・朝キャバ",
-  "address": "神奈川県横浜市中区弁天通3-36 関内プリンス会館ビル4F",
-  "station": "関内駅",
-  "area": "横浜・関内",
-  "tel": "045-663-4588",
-  "telType": "店電",
-  "hours": "昼の部 12:00~20:00、夜の部 20:00~LAST",
-  "openFrom": "12:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop3156/"
- },
- {
   "id": "four-seasons-c2f61",
   "name": "Four Seasons（フォーシーズン）",
   "genre": "クラブ",
@@ -2208,19 +2013,6 @@ window.TELEAPO_DATA = [
   "hours": "10:00～LAST",
   "openFrom": "10:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016563/"
- },
- {
-  "id": "club-artemis-61532",
-  "name": "Club Artemis（アルテミス）",
-  "genre": "クラブ",
-  "address": "神奈川県横浜市中区相生町2-31 相生中央ビル1F",
-  "station": "関内駅",
-  "area": "横浜・関内",
-  "tel": "045-663-3738",
-  "telType": "店電",
-  "hours": "20:00～1:00",
-  "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005126/"
  },
  {
   "id": "leon-46e75",
@@ -2377,19 +2169,6 @@ window.TELEAPO_DATA = [
   "hours": "11:00～1:00",
   "openFrom": "11:00",
   "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014137/"
- },
- {
-  "id": "bar-rainbow-b1c7b",
-  "name": "Bar Rainbow（レインボー）",
-  "genre": "ラウンジ",
-  "address": "神奈川県横浜市中区相生町4-76 ラタンビル203",
-  "station": "馬車道駅",
-  "area": "横浜・関内",
-  "tel": "070-9198-8671",
-  "telType": "携帯",
-  "hours": "20:00～LAST",
-  "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016959/"
  },
  {
   "id": "black-jack-77dd4",
