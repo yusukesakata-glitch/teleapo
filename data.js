@@ -10,7 +10,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop23082/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop23082/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "yuruche-a8f62",
@@ -23,7 +25,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011660/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011660/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "bunny-lounge-b4-kawasaki-947f2",
@@ -36,7 +40,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "18:30～LAST",
   "openFrom": "18:30",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop16052/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop16052/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "ciel-bleu-15b0d",
@@ -49,7 +55,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "18:00～LAST",
   "openFrom": "18:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop6763/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop6763/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-lady-9f06d",
@@ -62,7 +70,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00~LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop21950/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop21950/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-c87ba",
@@ -75,7 +85,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "mad-bunny-6312b",
@@ -88,7 +100,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "15:00～LAST",
   "openFrom": "15:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/005818/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/005818/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "t-ara-8c9c3",
@@ -101,7 +115,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "11:00～LAST",
   "openFrom": "11:00",
-  "sourceUrl": "https://chocolat.work/kanagawa/a_322/shop/124366/"
+  "sourceUrl": "https://chocolat.work/kanagawa/a_322/shop/124366/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-0262c",
@@ -114,7 +130,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00〜05:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://girlsbar-prds.net/tokyo/kawasaki/puellakwsk/"
+  "sourceUrl": "https://girlsbar-prds.net/tokyo/kawasaki/puellakwsk/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-leon-183bb",
@@ -127,7 +145,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "9:00～0:00",
   "openFrom": "9:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/001425/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/001425/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-3-twothree-19f94",
@@ -140,7 +160,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "21:00～LAST",
   "openFrom": "21:00",
-  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop17614/"
+  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop17614/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-iris-5a7a7",
@@ -153,7 +175,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "金曜・土曜19:00～25:00 火～木曜・日曜20:00～25:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop11423/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop11423/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-morning-d51cb",
@@ -166,7 +190,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "",
   "openFrom": "",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop15970/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop15970/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "bar-route-69-67f90",
@@ -179,7 +205,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "18:00～LAST",
   "openFrom": "18:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009099/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009099/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-fortuna-38727",
@@ -192,7 +220,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_329/shop/012210/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_329/shop/012210/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "xenial-fecba",
@@ -205,7 +235,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.snack-guide.com/kanagawa/48803/"
+  "sourceUrl": "https://www.snack-guide.com/kanagawa/48803/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "reine-06b60",
@@ -218,7 +250,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop7598/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop7598/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lechic-ee0ae",
@@ -231,7 +265,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011934/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011934/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-club-new-all-d111c",
@@ -244,7 +280,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop3319/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop3319/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "vegas-1a43e",
@@ -257,7 +295,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22557/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22557/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "leonessa-a5615",
@@ -270,7 +310,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000296/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000296/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-darts-bar-espoir-2ea74",
@@ -283,7 +325,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop14617/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop14617/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "dining-bar-day-s-88be1",
@@ -296,7 +340,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "18:00~LAST",
   "openFrom": "18:00",
-  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop19389/"
+  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop19389/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "depend-cc7b7",
@@ -309,7 +355,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop24019/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop24019/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-bar-teddy-f8342",
@@ -322,7 +370,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～05:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://chocolat.work/kanagawa/a_322/shop/103652/"
+  "sourceUrl": "https://chocolat.work/kanagawa/a_322/shop/103652/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "comfort-76305",
@@ -335,7 +385,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00~LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/c4290/c4343/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/c4290/c4343/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "booze-up-5d2d2",
@@ -348,7 +400,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://luline.jp/shop/view/19156/"
+  "sourceUrl": "https://luline.jp/shop/view/19156/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-cafe-it-f3c64",
@@ -361,7 +415,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "平日 19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009262/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009262/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "kirari-96a7e",
@@ -374,7 +430,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop5031/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop5031/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-aqua-496a2",
@@ -387,7 +445,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "14:00～LAST",
   "openFrom": "14:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/010893/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/010893/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "anubis-9be3a",
@@ -400,7 +460,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22131/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22131/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-n-9a379",
@@ -413,7 +475,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/biz_2/page2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/biz_2/page2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-lamer-803fa",
@@ -426,7 +490,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/001420/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/001420/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-3a7f7",
@@ -439,7 +505,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00~LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop23717/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop23717/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lily-5e82e",
@@ -452,7 +520,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "13:00～1:00",
   "openFrom": "13:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011325/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011325/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "no21-n-21-39727",
@@ -465,7 +535,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop19900/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop19900/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "nayuta-zero-a18e0",
@@ -478,7 +550,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009073/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/009073/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-bar-mio-acf89",
@@ -491,7 +565,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～1:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/013697/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/013697/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "blanc-motion",
@@ -504,7 +580,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/016363/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/016363/",
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop7738/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "club-sophia-247e9",
@@ -517,7 +595,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/005131/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/005131/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "monsoon-40fad",
@@ -530,7 +610,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011951/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011951/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-wild-cherry-2b0d1",
@@ -543,7 +625,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/006712/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/006712/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-mugen-499ee",
@@ -556,7 +640,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/008275/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/008275/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-reve-4bb8a",
@@ -569,7 +655,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00 - LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://ktvnightlifejapan.jp/ja/cities/kanagawa/kawasaki/stores/lounge-reve"
+  "sourceUrl": "https://ktvnightlifejapan.jp/ja/cities/kanagawa/kawasaki/stores/lounge-reve",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-majesty-ac3c4",
@@ -582,7 +670,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:30～LAST",
   "openFrom": "19:30",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000146/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000146/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "clubroi-40b79",
@@ -595,7 +685,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/004304/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/004304/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "zanarkandclub-kawasaki-b1c63",
@@ -608,7 +700,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_252/stype_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_252/stype_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girlsbar-nene-53619",
@@ -621,7 +715,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "14:00～LAST",
   "openFrom": "14:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/010138/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/010138/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-miracol-82853",
@@ -634,7 +730,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:30～LAST",
   "openFrom": "19:30",
-  "sourceUrl": "https://luline.jp/shop/view/16996/"
+  "sourceUrl": "https://luline.jp/shop/view/16996/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-79f1a",
@@ -647,7 +745,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_252/shop-ranking/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_252/shop-ranking/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-kawasaki-club-903c7",
@@ -660,7 +760,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000576/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000576/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-black-pink-c4ec6",
@@ -673,7 +775,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～5:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/003452/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/003452/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "kp-bar-ba0d9",
@@ -686,7 +790,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "",
   "openFrom": "",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/c4290/c4296/g15/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/c4290/c4296/g15/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-rutilus-a0c6e",
@@ -699,7 +805,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22331/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22331/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-cecile-12df3",
@@ -712,7 +820,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000152/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000152/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-dio-4f79b",
@@ -725,7 +835,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop10728/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop10728/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-kawasaki-garden-16748",
@@ -738,7 +850,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～翌1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/"
+  "sourceUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-rosso-88cf5",
@@ -751,7 +865,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000183/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000183/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-gemme-3202f",
@@ -764,7 +880,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:30-翌1:00",
   "openFrom": "19:30",
-  "sourceUrl": "https://www.club-gemme-kawasaki.jp/shop/info/"
+  "sourceUrl": "https://www.club-gemme-kawasaki.jp/shop/info/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "muah-lounge",
@@ -777,7 +895,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/016982/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/016982/",
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop24766/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "cafebar-mimyu-5d5ba",
@@ -790,7 +910,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "11:00～1:00",
   "openFrom": "11:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_252/biz_16/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_252/biz_16/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "bastet-51bd5",
@@ -803,7 +925,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "17:00～LAST",
   "openFrom": "17:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_329/shop/013796/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_329/shop/013796/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "gal-t-68450",
@@ -816,7 +940,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/004604/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/004604/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "luas-c8659",
@@ -829,7 +955,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/015980/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/015980/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "korean-concept-cafe-7927a",
@@ -842,7 +970,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00~LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop19134/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop19134/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "genesis-club-d-genesis-6216d",
@@ -855,7 +985,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22558/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop22558/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-lowe-12d42",
@@ -868,7 +1000,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000297/reviews/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000297/reviews/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "pub-f2ea7",
@@ -881,7 +1015,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:30～LAST",
   "openFrom": "19:30",
-  "sourceUrl": "https://emily-job.jp/snack/kanagawa/city289/area255/"
+  "sourceUrl": "https://emily-job.jp/snack/kanagawa/city289/area255/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-7da13",
@@ -894,7 +1030,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/014115/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/014115/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-eldoor-00b12",
@@ -907,7 +1045,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～19:00 19:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop18010/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/a10336/shop18010/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "myu-myu",
@@ -920,7 +1060,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011955/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/011955/",
+  "jobUrl": "https://www.pokepara-tainew.jp/kanagawa/m22/a10336/shop15361/",
+  "jobSource": "ポケパラ体入"
  },
  {
   "id": "girls-bar-r2-lupan-132bd",
@@ -933,7 +1075,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "21:00～LAST",
   "openFrom": "21:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_252/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_252/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-5308e",
@@ -946,7 +1090,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000152/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000152/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "soeur-2c2ba",
@@ -959,7 +1105,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/g10/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m22/g10/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "social-night-bar-evo-ca6ae",
@@ -972,7 +1120,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～5:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000935/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_322/shop/000935/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "comcept-cafe-panorama-97677",
@@ -985,7 +1135,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "OPEN～LAST",
   "openFrom": "",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/009232/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/009232/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "cloud-194ac",
@@ -998,7 +1150,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016561/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016561/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "next-monster-5d6ea",
@@ -1011,7 +1165,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016212/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016212/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "eldorado-1f475",
@@ -1024,7 +1180,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000387/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000387/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-8223b",
@@ -1037,7 +1195,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10300/shop23013/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10300/shop23013/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "paris-collection-214a1",
@@ -1050,7 +1210,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.kanagawa-pariscollection.com/top/"
+  "sourceUrl": "https://www.kanagawa-pariscollection.com/top/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-pino-76b87",
@@ -1063,7 +1225,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://luline.jp/shop/view/23238/"
+  "sourceUrl": "https://luline.jp/shop/view/23238/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-4c6ae",
@@ -1076,7 +1240,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～0:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001065/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001065/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-cae1d",
@@ -1089,7 +1255,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "",
   "openFrom": "",
-  "sourceUrl": ""
+  "sourceUrl": "",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "alpha-drive-one-d8d02",
@@ -1102,7 +1270,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "11:00～LAST",
   "openFrom": "11:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013736/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013736/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "qwer-2074e",
@@ -1115,7 +1285,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016533/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016533/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "i-ll-it-898a4",
@@ -1128,7 +1300,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010676/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010676/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-0bc20",
@@ -1141,7 +1315,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～00:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_16/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_16/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "hitgs-d0fe2",
@@ -1154,7 +1330,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/011292/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/011292/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "new-club-happiness-5b82d",
@@ -1167,7 +1345,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000128/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000128/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "regro-df8f0",
@@ -1180,7 +1360,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000127/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000127/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "e-style-722b6",
@@ -1193,7 +1375,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000130/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000130/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "bar-rino-29b0a",
@@ -1206,7 +1390,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://luline.jp/shop/view/18498/"
+  "sourceUrl": "https://luline.jp/shop/view/18498/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "izna-9ac91",
@@ -1219,7 +1405,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "11:00～LAST",
   "openFrom": "11:00",
-  "sourceUrl": "https://con-ca.jp/kanagawa/a_321/shop/003132/"
+  "sourceUrl": "https://con-ca.jp/kanagawa/a_321/shop/003132/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-bc541",
@@ -1232,7 +1420,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014815/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014815/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "melty-garden-ab718",
@@ -1245,7 +1435,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015591/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015591/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "reims-ac4a3",
@@ -1258,7 +1450,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001273/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001273/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-89832",
@@ -1271,7 +1465,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015450/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015450/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "a2o-4d495",
@@ -1284,7 +1480,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "6:00～LAST",
   "openFrom": "6:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/012585/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/012585/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "huntr-x-d6595",
@@ -1297,7 +1495,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013435/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013435/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "moana-98267",
@@ -1310,7 +1510,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000927/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000927/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-8ca4d",
@@ -1323,7 +1525,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015112/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015112/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "one-night-1286b",
@@ -1336,7 +1540,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "17:00～LAST",
   "openFrom": "17:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_330/shop/012002/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_330/shop/012002/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-e6ddf",
@@ -1349,7 +1555,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "h-pe-princess-08f01",
@@ -1362,7 +1570,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "11:00～LAST",
   "openFrom": "11:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "aespa-34d44",
@@ -1375,7 +1585,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014010/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014010/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "petit-r-ve-dc1d1",
@@ -1388,7 +1600,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "13:00～LAST",
   "openFrom": "13:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013839/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013839/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "meovv-a1836",
@@ -1401,7 +1615,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "OPEN～LAST",
   "openFrom": null,
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010482/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010482/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "princess-caf-bcb05",
@@ -1414,7 +1630,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014791/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014791/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "cutie-start-c100f",
@@ -1427,7 +1645,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014849/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014849/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lunaria-19f32",
@@ -1440,7 +1660,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "aoa-8e01c",
@@ -1453,7 +1675,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-9a95a",
@@ -1466,7 +1690,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-a29a8",
@@ -1479,7 +1705,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005111/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005111/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-rich-6033e",
@@ -1492,7 +1720,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop10532/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop10532/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "one-love-fec30",
@@ -1505,7 +1735,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～1:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-richesse-8bb1f",
@@ -1518,7 +1750,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～25:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop3950/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop3950/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "creation-31fbe",
@@ -1531,7 +1765,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001285/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001285/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-sun-s-16dff",
@@ -1544,7 +1780,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007546/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007546/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "premium-lounge-luxe-8e5fc",
@@ -1557,7 +1795,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007556/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007556/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-chelsea-1bf09",
@@ -1570,7 +1810,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000138/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000138/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-bar-blue-5e25f",
@@ -1583,7 +1825,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00~1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop15631/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop15631/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "flash-back-9a653",
@@ -1596,7 +1840,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005113/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005113/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-lounge-tiger-a72c6",
@@ -1609,7 +1855,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:30～LAST",
   "openFrom": "20:30",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_16/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_16/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-160a5",
@@ -1622,7 +1870,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-bar-popcorn-45bf0",
@@ -1635,7 +1885,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001719/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001719/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-rosanna-b1f96",
@@ -1648,7 +1900,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000665/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000665/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-ex-f1054",
@@ -1661,7 +1915,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/city_227/page5/"
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/page5/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "jupiter-352f3",
@@ -1674,7 +1930,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008646/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008646/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-86509",
@@ -1687,7 +1945,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/004381/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/004381/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "pinky-587d0",
@@ -1700,7 +1960,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "11:00～LAST",
   "openFrom": "11:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010059/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010059/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-0acc1",
@@ -1713,7 +1975,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～翌1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop12342/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop12342/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-46003",
@@ -1726,7 +1990,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/009422/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/009422/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-haru-31e9c",
@@ -1739,7 +2005,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/017248/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/017248/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "bi-66abc",
@@ -1752,7 +2020,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～24:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://snacknavi.com/kantou/shop84743.html"
+  "sourceUrl": "https://snacknavi.com/kantou/shop84743.html",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-remiry-3e466",
@@ -1765,7 +2035,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005129/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005129/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "progress-28cfd",
@@ -1778,7 +2050,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000541/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000541/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "ruxe-ba5a2",
@@ -1791,7 +2065,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girls-lounge-preme-ee7d0",
@@ -1804,7 +2080,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop22079/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop22079/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "president-dachs-2651a",
@@ -1817,7 +2095,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "kind-u-402c0",
@@ -1830,7 +2110,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_6/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_6/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "dachs-queen-c6afd",
@@ -1843,7 +2125,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006083/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006083/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "felice-70b07",
@@ -1856,7 +2140,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011612/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011612/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-chagall-7b258",
@@ -1869,7 +2155,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://kyaba.jp/shop/pp_3927/"
+  "sourceUrl": "https://kyaba.jp/shop/pp_3927/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-a-b7787",
@@ -1882,7 +2170,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014318/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014318/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "four-seasons-c2f61",
@@ -1895,7 +2185,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006573/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006573/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "oasis-158d3",
@@ -1908,7 +2200,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005995/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005995/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "seaside-club-380c5",
@@ -1921,7 +2215,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000136/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000136/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-4ac2b",
@@ -1934,7 +2230,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011635/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011635/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-b6502",
@@ -1947,7 +2245,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001151/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001151/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-e9989",
@@ -1960,7 +2260,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011205/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011205/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "clover-8fbc9",
@@ -1973,7 +2275,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006710/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006710/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "princess-f2dd8",
@@ -1986,7 +2290,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001727/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/001727/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "kirsch-e808e",
@@ -1999,7 +2305,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop14374/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop14374/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-9dc78",
@@ -2012,7 +2320,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016563/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016563/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "leon-46e75",
@@ -2025,7 +2335,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "平日 15:00～LAST / 土日祝 12:00～LAST",
   "openFrom": "15:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/017306/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/017306/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "new-lounge-carnet-4aac2",
@@ -2038,7 +2350,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://www.nightgram.com/shop/carnet"
+  "sourceUrl": "https://www.nightgram.com/shop/carnet",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-miyabi-d39f4",
@@ -2051,7 +2365,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006879/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006879/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-crystal-moon-fbdab",
@@ -2064,7 +2380,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000141/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000141/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-gift-a32e3",
@@ -2077,7 +2395,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000547/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000547/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "g-sweet-3ba15",
@@ -2090,7 +2410,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-imperial-family-4c347",
@@ -2103,7 +2425,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008034/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008034/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-357b0",
@@ -2116,7 +2440,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～1:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/004817/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/004817/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-0bbce",
@@ -2129,7 +2455,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～01:00",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000659/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000659/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "the-lounge-c4c20",
@@ -2142,7 +2470,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "昼の部 13:00～19:00 / 夜の部 20:00～25:00",
   "openFrom": "13:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010880/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010880/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "yokohama-vip-club-5a0d2",
@@ -2155,7 +2485,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000661/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000661/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "kirameki-beaa7",
@@ -2168,7 +2500,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "11:00～1:00",
   "openFrom": "11:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014137/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/014137/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "black-jack-77dd4",
@@ -2181,7 +2515,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-2112c",
@@ -2194,7 +2530,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010526/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010526/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-5619b",
@@ -2207,7 +2545,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016190/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/016190/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "style-a279f",
@@ -2220,7 +2560,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～1:00",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008263/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008263/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "girl-s-bar-ruru-d6ed5",
@@ -2233,7 +2575,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_2/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-f0dcc",
@@ -2246,7 +2590,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006985/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006985/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "eternity-9cc04",
@@ -2259,7 +2605,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "22:00～LAST",
   "openFrom": "22:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000725/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000725/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "franc-20b2e",
@@ -2272,7 +2620,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "19:00～翌1:00",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop13849/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop13849/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "material-girl-567df",
@@ -2285,7 +2635,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "10:00～LAST",
   "openFrom": "10:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005127/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005127/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "r-d-1cd91",
@@ -2298,7 +2650,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010564/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/010564/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-anubis-76158",
@@ -2311,7 +2665,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000137/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000137/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "grace-91982",
@@ -2324,7 +2680,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011172/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011172/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-capella-be79b",
@@ -2337,7 +2695,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006238/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006238/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "nexus-7250f",
@@ -2350,7 +2710,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007144/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/007144/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-fiore-c31d6",
@@ -2363,7 +2725,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "mystique-0cc31",
@@ -2376,7 +2740,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:30～LAST",
   "openFrom": "19:30",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006709/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/006709/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "barlounge-031fe",
@@ -2389,7 +2755,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "8:00～LAST",
   "openFrom": "8:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008866/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/008866/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-link-ac3c2",
@@ -2402,7 +2770,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "21:00～LAST",
   "openFrom": "21:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-o-2f01d",
@@ -2415,7 +2785,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "21:00～LAST",
   "openFrom": "21:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000158/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000158/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-47b7b",
@@ -2428,7 +2800,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "19:00～LAST",
   "openFrom": "19:00",
-  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop11579/"
+  "sourceUrl": "https://www.pokepara.jp/kanagawa/m21/a10303/shop11579/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lounge-bar-gwsn-cd144",
@@ -2441,7 +2815,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "12:00～LAST",
   "openFrom": "12:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/biz_1/stype_1/page4/"
+  "sourceUrl": "https://town-night.jp/kanagawa/biz_1/stype_1/page4/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-neo-4f011",
@@ -2454,7 +2830,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": ""
+  "sourceUrl": "",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "lunaria-8ccef",
@@ -2467,7 +2845,9 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "18:00～LAST",
   "openFrom": "18:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/012573/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/012573/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "new-club-mint-c40b3",
@@ -2480,7 +2860,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/biz_1/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "private-lounge-hool-64f05",
@@ -2493,7 +2875,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/003620/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/003620/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-5e122",
@@ -2506,7 +2890,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000721/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000721/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "alice-b6d68",
@@ -2519,7 +2905,9 @@ window.TELEAPO_DATA = [
   "telType": "",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005124/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005124/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "club-royce-976f3",
@@ -2532,7 +2920,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "日曜日 20:00～LAST / 平日 21:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005679/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/005679/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "vivian-37cf1",
@@ -2545,7 +2935,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "21:00～LAST",
   "openFrom": "21:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000722/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000722/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-e2f7e",
@@ -2558,7 +2950,9 @@ window.TELEAPO_DATA = [
   "telType": "店電",
   "hours": "22:00～LAST",
   "openFrom": "22:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000723/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/000723/",
+  "jobUrl": "",
+  "jobSource": ""
  },
  {
   "id": "shop-c76a3",
@@ -2571,6 +2965,8 @@ window.TELEAPO_DATA = [
   "telType": "携帯",
   "hours": "20:00～LAST",
   "openFrom": "20:00",
-  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011979/"
+  "sourceUrl": "https://town-night.jp/kanagawa/a_319/shop/011979/",
+  "jobUrl": "",
+  "jobSource": ""
  }
 ];

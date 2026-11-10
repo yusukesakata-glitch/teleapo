@@ -40,6 +40,12 @@ def main():
         if os.path.exists(f):
             for rec in json.load(open(f, encoding='utf-8')):
                 collected[rec['id']] = rec
+    jobcheck = {}
+    for n in range(1, 5):
+        f = os.path.join(TELEAPO_DIR, f'jobcheck-{n}-result.json')
+        if os.path.exists(f):
+            for rec in json.load(open(f, encoding='utf-8')):
+                jobcheck[rec['id']] = rec
 
     out, excluded = [], 0
     for p in pros:
@@ -63,6 +69,8 @@ def main():
             'hours': r.get('hours', ''),
             'openFrom': r.get('open_from', ''),
             'sourceUrl': r.get('hours_source_url') or r.get('tel_source_url') or p.get('sourceUrl', ''),
+            'jobUrl': (jobcheck.get(p['id'], {}).get('job_url') or p.get('jobUrl') or ''),
+            'jobSource': (jobcheck.get(p['id'], {}).get('job_source') or p.get('jobSource') or ''),
         })
 
     out.sort(key=lambda s: (s['area'], s['address'], s['name']))
@@ -72,7 +80,8 @@ def main():
         f.write(';\n')
     with_hours = sum(1 for s in out if s['hours'])
     with_tel = sum(1 for s in out if s['tel'])
-    print(f'掲載 {len(out)} 件（既存顧客と重複で除外 {excluded} 件） / 営業時間あり {with_hours} / 電話あり {with_tel}')
+    with_job = sum(1 for s in out if s['jobUrl'])
+    print(f'掲載 {len(out)} 件（既存顧客と重複で除外 {excluded} 件） / 営業時間あり {with_hours} / 電話あり {with_tel} / 求人URLあり {with_job}')
 
 
 if __name__ == '__main__':

@@ -8,7 +8,7 @@
   :root{
     --navy:#163B5B; --navy2:#25475F; --gold:#D9A94A;
     --bg:#F2F5F8; --card:#FFFFFF; --ink:#22303C; --sub:#6B7B89;
-    --line:#E1E8EE; --chip:#EAF0F5;
+    --line:#E1E8EE; --chip:#EAF0F5; --bad:#B03A2E;
   }
   *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;background:var(--bg);color:var(--ink)}
@@ -17,9 +17,12 @@
   h1{font-size:19px;font-weight:700;letter-spacing:.02em}
   #count{font-size:13px;color:#C9D6E2}
   #count b{color:var(--gold);font-size:16px}
-  .controls{background:var(--navy);padding:0 12px 12px;position:sticky;top:57px;z-index:19}
+  #stats{display:flex;gap:16px;margin-top:10px;font-size:13px;color:#C9D6E2;flex-wrap:wrap}
+  #stats b{color:#fff;font-size:16px}
+  #stats .gold{color:var(--gold)}
+  .controls{background:var(--navy);padding:0 12px 12px;position:sticky;top:87px;z-index:19}
   .search{display:flex;gap:8px}
-  #q{flex:1;border:none;border-radius:999px;padding:10px 16px;font-size:15px;background:#fff;color:var(--ink);outline:none}
+  #q{flex:1;border:none;border-radius:999px;padding:10px 16px;font-size:15px;background:#fff;color:var(--ink);outline:none;min-width:0}
   #sort{border:none;border-radius:999px;padding:10px 8px;font-size:13px;background:var(--navy2);color:#fff;outline:none}
   .pills{display:flex;gap:6px;overflow-x:auto;padding:10px 2px 0;scrollbar-width:none}
   .pills::-webkit-scrollbar{display:none}
@@ -27,23 +30,47 @@
   .pill.on{background:var(--gold);border-color:var(--gold);color:#fff;font-weight:700}
   .pill.g{border-color:#CBD8E2;color:var(--sub);background:#fff}
   .pill.g.on{background:var(--navy);border-color:var(--navy);color:#fff}
+  .pill.s{border-color:#3D5A74}
   #genreRow{padding-top:8px}
   main{padding:12px 12px 40px;max-width:760px;margin:0 auto}
   .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin-bottom:10px}
   .name{font-size:17px;font-weight:700;color:var(--navy);line-height:1.35}
   .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
   .tag{font-size:12px;background:var(--chip);color:var(--navy2);border-radius:999px;padding:3px 10px}
-  .hours{margin-top:10px;font-size:14px;display:flex;align-items:center;gap:8px}
+  .hours{margin-top:10px;font-size:14px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
   .open{background:var(--gold);color:#fff;font-weight:700;border-radius:999px;padding:3px 12px;font-size:14px}
   .hours .full{color:var(--ink)}
   .unknown{color:#A7B4BF;font-size:13px}
   .addr{margin-top:8px;font-size:13px;color:var(--sub);line-height:1.5}
+  .joblink{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:600;color:var(--navy);background:#FFF7E6;border:1px solid var(--gold);border-radius:999px;padding:4px 12px;text-decoration:none}
   .telbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:12px;background:var(--navy);color:#fff;text-decoration:none;border-radius:999px;padding:12px;font-size:17px;font-weight:700;letter-spacing:.03em}
   .telbtn .kind{font-size:11px;font-weight:700;background:rgba(255,255,255,.22);border-radius:999px;padding:2px 8px}
   .telbtn.mobile{background:#fff;color:var(--navy);border:2px solid var(--gold)}
   .telbtn.mobile .kind{background:var(--gold);color:#fff}
   .telbtn.none{background:var(--chip);color:#A7B4BF;pointer-events:none;font-size:14px;font-weight:400}
-  #empty{ text-align:center;color:var(--sub);padding:40px 0;font-size:14px;display:none}
+  .statusline{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px;align-items:center}
+  .st{font-size:12px;font-weight:700;border-radius:999px;padding:4px 11px}
+  .st.apo{background:var(--gold);color:#fff}
+  .st.kotowari{background:#EDEFF1;color:var(--sub)}
+  .st.fuzai,.st.fu{background:var(--chip);color:var(--navy2)}
+  .st.kake{background:#fff;color:var(--navy);border:1.5px solid var(--gold)}
+  .nextcall{font-size:12px;font-weight:700;color:var(--navy)}
+  .nextcall.over{color:var(--bad)}
+  .when{font-size:12px;color:var(--sub)}
+  .actions{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap}
+  .act{flex:1 1 auto;border:1px solid var(--line);background:#fff;color:var(--navy2);border-radius:999px;padding:9px 6px;font-size:13px;font-weight:600;cursor:pointer;min-width:62px}
+  .act:active{background:var(--chip)}
+  .act.apo{border-color:var(--gold);color:var(--gold);font-weight:700}
+  .kakebox{display:none;margin-top:10px;background:var(--bg);border-radius:12px;padding:10px}
+  .kakebox.open{display:block}
+  .kakebox .row{display:flex;gap:8px;align-items:center}
+  .kakebox input{flex:1;border:1px solid var(--line);border-radius:8px;padding:9px;font-size:14px;background:#fff;color:var(--ink);min-width:0}
+  .kakebox button{border:none;border-radius:999px;padding:9px 16px;font-size:13px;font-weight:700;cursor:pointer}
+  .kakebox .save{background:var(--navy);color:#fff}
+  .kakebox .cancel{background:transparent;color:var(--sub)}
+  .undoline{margin-top:8px;text-align:right}
+  .undo{border:none;background:none;color:#A7B4BF;font-size:12px;cursor:pointer;text-decoration:underline}
+  #empty{text-align:center;color:var(--sub);padding:40px 0;font-size:14px;display:none}
 </style>
 </head>
 <body>
@@ -52,6 +79,7 @@
     <h1>テレアポリスト</h1>
     <div id="count"></div>
   </div>
+  <div id="stats"></div>
 </header>
 <div class="controls">
   <div class="search">
@@ -61,6 +89,15 @@
       <option value="name">店名順</option>
       <option value="area">エリア順</option>
     </select>
+  </div>
+  <div class="pills" id="statusRow">
+    <button class="pill s on" data-status="">すべて</button>
+    <button class="pill s" data-status="next">かけ直し予定</button>
+    <button class="pill s" data-status="none">未架電</button>
+    <button class="pill s" data-status="apo">アポ</button>
+    <button class="pill s" data-status="fuzai">担当不在</button>
+    <button class="pill s" data-status="fu">電話でない</button>
+    <button class="pill s" data-status="kotowari">お断り</button>
   </div>
   <div class="pills" id="areaRow">
     <button class="pill on" data-area="">すべて</button>
@@ -77,7 +114,70 @@
 <script>
 function init(){
 const DATA = window.TELEAPO_DATA || [];
-let area = '', genre = '';
+let area = '', genre = '', statusF = '', openKakeId = null;
+
+const LOG_KEY = 'teleapo_log_v1';
+function loadLog(){ try { return JSON.parse(localStorage.getItem(LOG_KEY)) || {}; } catch(e){ return {}; } }
+function saveLog(l){ localStorage.setItem(LOG_KEY, JSON.stringify(l)); }
+let log = loadLog();
+
+const RESULTS = {
+  fu:       { label: '電話でない', cls: 'fu' },
+  fuzai:    { label: '担当不在',   cls: 'fuzai' },
+  kotowari: { label: 'お断り',     cls: 'kotowari' },
+  kake:     { label: 'かけ直し',   cls: 'kake' },
+  apo:      { label: 'アポ',       cls: 'apo' }
+};
+function shopState(id){
+  const entries = log[id] || [];
+  const latest = entries.length ? entries[entries.length - 1] : null;
+  return { entries, latest, next: latest && latest.next ? latest.next : null };
+}
+function fmtDT(ts){
+  const d = new Date(ts);
+  const w = ['日','月','火','水','木','金','土'][d.getDay()];
+  return `${d.getMonth()+1}/${d.getDate()}(${w}) ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+}
+function fmtShort(ts){
+  const d = new Date(ts);
+  return `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+}
+function localInputValue(ts){
+  const d = new Date(ts);
+  const p = n => String(n).padStart(2,'0');
+  return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}T${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+function logCall(id, r, next){
+  if(!log[id]) log[id] = [];
+  log[id].push({ t: Date.now(), r, next: next || null });
+  saveLog(log);
+  openKakeId = null;
+  render();
+}
+function undoLast(id){
+  if(log[id] && log[id].length){ log[id].pop(); if(!log[id].length) delete log[id]; saveLog(log); render(); }
+}
+window.__teleapo = { logCall, undoLast, toggleKake: id => { openKakeId = openKakeId === id ? null : id; render(); },
+  saveKake: id => { const inp = document.getElementById('kake-' + id); const v = inp && inp.value ? new Date(inp.value).getTime() : null; logCall(id, 'kake', v); } };
+
+function renderStats(){
+  let total = 0, conn = 0, apo = 0, tTotal = 0, tConn = 0, tApo = 0;
+  const dayStart = new Date(); dayStart.setHours(0,0,0,0);
+  Object.values(log).forEach(entries => entries.forEach(e => {
+    total++;
+    if(e.r !== 'fu') conn++;
+    if(e.r === 'apo') apo++;
+    if(e.t >= dayStart.getTime()){
+      tTotal++;
+      if(e.r !== 'fu') tConn++;
+      if(e.r === 'apo') tApo++;
+    }
+  }));
+  const pct = n => total ? Math.round(n / total * 100) : 0;
+  document.getElementById('stats').innerHTML = total
+    ? `架電 <b>${total}</b> 件　繋がり率 <b>${pct(conn)}%</b>（${conn}件）　<span class="gold">アポ率</span> <b class="gold">${pct(apo)}%</b>（${apo}件）<span style="flex-basis:100%"></span>今日 <b>${tTotal}</b> 件（繋がり ${tConn} 件 ・ アポ <b class="gold">${tApo}</b> 件）`
+    : '架電 <b>0</b> 件';
+}
 
 const genreRow = document.getElementById('genreRow');
 const genres = [...new Set(DATA.map(d => d.genre).filter(Boolean))];
@@ -93,19 +193,38 @@ function openMinutes(s){
 function esc(s){ return (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 
 function render(){
+  renderStats();
   const q = document.getElementById('q').value.trim();
   const sort = document.getElementById('sort').value;
-  let rows = DATA.filter(d =>
-    (!area || d.area === area) &&
-    (!genre || d.genre === genre) &&
-    (!q || (d.name + d.address + d.station + d.genre).includes(q))
-  );
-  if(sort === 'open') rows.sort((a,b) => openMinutes(a.openFrom) - openMinutes(b.openFrom) || a.name.localeCompare(b.name,'ja'));
-  if(sort === 'name') rows.sort((a,b) => a.name.localeCompare(b.name,'ja'));
-  if(sort === 'area') rows.sort((a,b) => a.area.localeCompare(b.area,'ja') || openMinutes(a.openFrom) - openMinutes(b.openFrom));
+  let rows = DATA.filter(d => {
+    if(area && d.area !== area) return false;
+    if(genre && d.genre !== genre) return false;
+    if(q && !(d.name + d.address + d.station + d.genre).includes(q)) return false;
+    if(statusF){
+      const st = shopState(d.id);
+      if(statusF === 'none' && st.latest) return false;
+      if(statusF === 'next' && !st.next) return false;
+      if(['apo','fuzai','fu','kotowari'].includes(statusF) && (!st.latest || st.latest.r !== statusF)) return false;
+    }
+    return true;
+  });
+  if(statusF === 'next') rows.sort((a,b) => (shopState(a.id).next || 0) - (shopState(b.id).next || 0));
+  else if(sort === 'open') rows.sort((a,b) => openMinutes(a.openFrom) - openMinutes(b.openFrom) || a.name.localeCompare(b.name,'ja'));
+  else if(sort === 'name') rows.sort((a,b) => a.name.localeCompare(b.name,'ja'));
+  else if(sort === 'area') rows.sort((a,b) => a.area.localeCompare(b.area,'ja') || openMinutes(a.openFrom) - openMinutes(b.openFrom));
   document.getElementById('count').innerHTML = `<b>${rows.length}</b> 件 / 全${DATA.length}件`;
   document.getElementById('empty').style.display = rows.length ? 'none' : 'block';
-  document.getElementById('list').innerHTML = rows.map(d => `
+  const now = Date.now();
+  document.getElementById('list').innerHTML = rows.map(d => {
+    const st = shopState(d.id);
+    const latestHtml = st.latest ? `
+      <div class="statusline">
+        <span class="st ${RESULTS[st.latest.r].cls}">${RESULTS[st.latest.r].label}</span>
+        <span class="when">${fmtShort(st.latest.t)} ・ ${st.entries.length}回目</span>
+        ${st.next ? `<span class="nextcall ${st.next < now ? 'over' : ''}">次回 ${fmtDT(st.next)}${st.next < now ? '（過ぎています）' : ''}</span>` : ''}
+      </div>` : '';
+    const defaultNext = localInputValue(Date.now() + 24*3600*1000);
+    return `
     <div class="card">
       <div class="name">${esc(d.name)}</div>
       <div class="meta">
@@ -117,10 +236,28 @@ function render(){
         ? `<span class="open">${esc(d.openFrom)}〜</span><span class="full">${esc(d.hours)}</span>`
         : `<span class="unknown">営業時間 未確認</span>`}</div>
       <div class="addr">${esc(d.address)}</div>
+      ${d.jobUrl ? `<a class="joblink" href="${esc(d.jobUrl)}" target="_blank" rel="noopener">求人掲載あり：${esc(d.jobSource || '求人ページ')} ↗</a>` : ''}
       ${d.tel
         ? `<a class="telbtn ${d.telType === '携帯' ? 'mobile' : ''}" href="tel:${d.tel.replace(/[^0-9+]/g,'')}">📞 ${esc(d.tel)}<span class="kind">${d.telType === '携帯' ? '携帯' : '店電'}</span></a>`
         : `<span class="telbtn none">電話番号 未確認</span>`}
-    </div>`).join('');
+      ${latestHtml}
+      <div class="actions">
+        <button class="act" onclick="__teleapo.logCall('${d.id}','fu')">でない</button>
+        <button class="act" onclick="__teleapo.logCall('${d.id}','fuzai')">担当不在</button>
+        <button class="act" onclick="__teleapo.logCall('${d.id}','kotowari')">お断り</button>
+        <button class="act" onclick="__teleapo.toggleKake('${d.id}')">かけ直し</button>
+        <button class="act apo" onclick="__teleapo.logCall('${d.id}','apo')">アポ</button>
+      </div>
+      <div class="kakebox ${openKakeId === d.id ? 'open' : ''}">
+        <div class="row">
+          <input type="datetime-local" id="kake-${d.id}" value="${defaultNext}">
+          <button class="save" onclick="__teleapo.saveKake('${d.id}')">保存</button>
+          <button class="cancel" onclick="__teleapo.toggleKake('${d.id}')">閉じる</button>
+        </div>
+      </div>
+      ${st.latest ? `<div class="undoline"><button class="undo" onclick="__teleapo.undoLast('${d.id}')">最新の記録を消す</button></div>` : ''}
+    </div>`;
+  }).join('');
 }
 
 document.getElementById('q').addEventListener('input', render);
@@ -129,6 +266,12 @@ document.getElementById('areaRow').addEventListener('click', e => {
   const b = e.target.closest('[data-area]'); if(!b) return;
   area = b.dataset.area;
   document.querySelectorAll('#areaRow .pill').forEach(p => p.classList.toggle('on', p === b));
+  render();
+});
+document.getElementById('statusRow').addEventListener('click', e => {
+  const b = e.target.closest('[data-status]'); if(!b) return;
+  statusF = b.dataset.status;
+  document.querySelectorAll('#statusRow .pill').forEach(p => p.classList.toggle('on', p === b));
   render();
 });
 genreRow.addEventListener('click', e => {
