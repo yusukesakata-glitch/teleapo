@@ -1176,37 +1176,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸1-2-9 横浜プリンス会館5F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
+  "tel": "045-290-5535",
+  "telType": "店電",
+  "hours": "OPEN～12:00",
   "openFrom": "",
-  "sourceUrl": ""
- },
- {
-  "id": "splash-a212a",
-  "name": "横浜splash～スプラッシュ～",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市西区南幸1-2-9 横浜プリンス会館8F",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
- },
- {
-  "id": "suite-87bdd",
-  "name": "横浜SUITE～スイート～",
-  "genre": "キャバクラ",
-  "address": "神奈川県横浜市西区南幸1-2-9 横浜プリンス会館ビル7F",
-  "station": "横浜駅",
-  "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "sourceUrl": "https://job-chocolat.jp/kanagawa/a_321/shop/00711/"
  },
  {
   "id": "girl-s-bar-pino-76b87",
@@ -1217,9 +1191,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "080-4075-0225",
   "telType": "携帯",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "19:00～LAST",
+  "openFrom": "19:00",
+  "sourceUrl": "https://luline.jp/shop/view/23238/"
  },
  {
   "id": "shop-4c6ae",
@@ -1230,9 +1204,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "",
   "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "12:00～0:00",
+  "openFrom": "12:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/001065/"
  },
  {
   "id": "shop-cae1d",
@@ -1254,11 +1228,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-10-3 LMC・DJビル2F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "0120-005-311",
+  "telType": "店電",
+  "hours": "11:00～LAST",
+  "openFrom": "11:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/013736/"
  },
  {
   "id": "qwer-2074e",
@@ -1267,11 +1241,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-10-8 大信ビル4F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "045-326-6966",
+  "telType": "店電",
+  "hours": "10:00～LAST",
+  "openFrom": "10:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/016533/"
  },
  {
   "id": "i-ll-it-898a4",
@@ -1282,9 +1256,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "",
   "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "12:00～LAST",
+  "openFrom": "12:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/010676/"
  },
  {
   "id": "shop-0bc20",
@@ -1295,9 +1269,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "",
   "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "12:00～00:00",
+  "openFrom": "12:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/city_227/biz_16/"
  },
  {
   "id": "hitgs-d0fe2",
@@ -1306,11 +1280,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-5-3 AHC MINAMISAIWAI5F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "045-326-6966",
+  "telType": "店電",
+  "hours": "10:00～LAST",
+  "openFrom": "10:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/011292/"
  },
  {
   "id": "new-club-happiness-5b82d",
@@ -1321,9 +1295,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "045-317-8787",
   "telType": "店電",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "20:00～LAST",
+  "openFrom": "20:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000128/"
  },
  {
   "id": "regro-df8f0",
@@ -1332,11 +1306,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-7-3 小安ビル5F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "045-316-1799",
+  "telType": "店電",
+  "hours": "20:00～LAST",
+  "openFrom": "20:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000127/"
  },
  {
   "id": "e-style-722b6",
@@ -1347,9 +1321,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "045-321-7167",
   "telType": "店電",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "19:00～LAST",
+  "openFrom": "19:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/000130/"
  },
  {
   "id": "bar-rino-29b0a",
@@ -1358,11 +1332,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-8-11 1015YOKOHAMA2階",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "090-1252-9485",
+  "telType": "携帯",
+  "hours": "19:00～LAST",
+  "openFrom": "19:00",
+  "sourceUrl": "https://luline.jp/shop/view/18498/"
  },
  {
   "id": "izna-9ac91",
@@ -1373,9 +1347,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "",
   "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "11:00～LAST",
+  "openFrom": "11:00",
+  "sourceUrl": "https://con-ca.jp/kanagawa/a_321/shop/003132/"
  },
  {
   "id": "shop-bc541",
@@ -1386,9 +1360,9 @@ window.TELEAPO_DATA = [
   "area": "横浜",
   "tel": "",
   "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "hours": "12:00～LAST",
+  "openFrom": "12:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/014815/"
  },
  {
   "id": "melty-garden-ab718",
@@ -1397,11 +1371,11 @@ window.TELEAPO_DATA = [
   "address": "神奈川県横浜市西区南幸2-9-1 ニッセイ第三ビル8F",
   "station": "横浜駅",
   "area": "横浜",
-  "tel": "",
-  "telType": "",
-  "hours": "",
-  "openFrom": "",
-  "sourceUrl": ""
+  "tel": "045-326-6966",
+  "telType": "店電",
+  "hours": "10:00～LAST",
+  "openFrom": "10:00",
+  "sourceUrl": "https://town-night.jp/kanagawa/a_321/shop/015591/"
  },
  {
   "id": "reims-ac4a3",
